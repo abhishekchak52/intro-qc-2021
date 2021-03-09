@@ -9,9 +9,6 @@ Run the course notebooks in an interactive environment in your browser using the
 
 ## Table of Contents
 
-### Lecture slides
-
-
 ### Qiskit Programming Notebooks
 1. [Brief Python 3 review](notebooks/intro_python.ipynb)
 2. [Single Qubit Operations and Circuits using Qiskit](notebooks/single_qubit.ipynb)
