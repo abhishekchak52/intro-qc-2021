@@ -12,6 +12,7 @@ Run the course notebooks in an interactive environment in your browser using the
 ### Qiskit Programming Notebooks
 1. [Brief Python 3 review](notebooks/intro_python.ipynb)
 2. [Single Qubit Operations and Circuits using Qiskit](notebooks/single_qubit.ipynb)
+3. [Multiple Qubits and Entanglement using Qiskit](notebooks/multi_qubit.ipynb)
 
 ### dm-simulator Programming Notebooks
 1. [Hadamard and Measure](notebooks/dm-simulator-notebooks/hadamard.ipynb)
