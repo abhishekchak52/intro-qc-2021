@@ -16,3 +16,6 @@ Run the course notebooks in an interactive environment in your browser using the
 
 ### dm-simulator Programming Notebooks
 1. [Hadamard and Measure](notebooks/dm-simulator-notebooks/hadamard.ipynb)
+
+### Programming Assignments
+1. [Programming Assignment 1](assignments/assignment1.ipynb)
