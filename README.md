@@ -14,9 +14,12 @@ Run the course notebooks in an interactive environment in your browser using the
 2. [Single Qubit Operations and Circuits using Qiskit](notebooks/single_qubit.ipynb)
 3. [Multiple Qubits and Entanglement using Qiskit](notebooks/multi_qubit.ipynb)
 4. [Quantum Circuits using Qiskit](notebooks/quantum_circuits.ipynb)
+4. [Quantum Algorithms using Qiskit](notebooks/algorithms.ipynb)
 
 ### dm-simulator Programming Notebooks
 1. [Hadamard and Measure](notebooks/dm-simulator-notebooks/hadamard.ipynb)
+2. [Deutsch Algorithm](notebooks/dm-simulator-notebooks/deutsch.ipynb)
+3. [Deutsch-Jozsa Algorithm](notebooks/dm-simulator-notebooks/deutsch-jozsa-2bit.ipynb)
 
 ### Programming Assignments
 1. [Programming Assignment 1](assignments/assignment1.ipynb)
