@@ -23,3 +23,4 @@ Run the course notebooks in an interactive environment in your browser using the
 
 ### Programming Assignments
 1. [Programming Assignment 1](assignments/assignment1.ipynb)
+2. [Programming Assignment 2](assignments/assignment2.ipynb)
